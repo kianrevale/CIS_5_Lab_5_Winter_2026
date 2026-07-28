@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kianrevale/Code/CIS_5_Lab_5_Winter_2026/main'
+relocations:     []
+...
